@@ -1,0 +1,41 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sun Jan 18 01:44:50 2026
+| Host         : Const running 64-bit major release  (build 9200)
+| Command      : report_drc -file key_led_drc_opted.rpt -pb key_led_drc_opted.pb -rpx key_led_drc_opted.rpx
+| Design       : key_led
+| Device       : xc7z020clg400-2
+| Speed File   : -2
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Report DRC
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+           Ruledeck: default
+             Max checks: <unlimited>
+             Checks found: 1
++--------+----------+--------------------+--------+
+| Rule   | Severity | Description        | Checks |
++--------+----------+--------------------+--------+
+| ZPS7-1 | Warning  | PS7 block required | 1      |
++--------+----------+--------------------+--------+
+
+2. REPORT DETAILS
+-----------------
+ZPS7-1#1 Warning
+PS7 block required  
+The PS7 cell must be used in this Zynq design in order to enable correct default configuration.
+Related violations: <none>
+
+

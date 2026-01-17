@@ -1,0 +1,50 @@
+15:17:00 DEBUG : Logs will be stored at 'E:/ProgramData/Xilinx/7020_Test/fpga_soc/IDE.log'.
+15:17:11 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ProgramData\Xilinx\7020_Test\fpga_soc\temp_xsdb_launch_script.tcl
+15:17:12 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+15:17:12 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+15:17:12 ERROR : (XSDB Server)'\gnuwin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+15:17:12 INFO  : Registering command handlers for Vitis TCF services
+15:17:15 INFO  : Platform repository initialization has completed.
+15:17:16 INFO  : XSCT server has started successfully.
+15:17:16 INFO  : plnx-install-location is set to ''
+15:17:16 INFO  : Successfully done setting XSCT server connection channel  
+15:17:16 INFO  : Successfully done setting workspace for the tool. 
+15:17:16 INFO  : Successfully done query RDI_DATADIR 
+15:17:54 INFO  : Result from executing command 'getProjects': soc_led
+15:17:54 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_202410_1/xilinx_vck190_base_202410_1.xpfm;xilinx_vck190_base_dfx_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_dfx_202410_1/xilinx_vck190_base_dfx_202410_1.xpfm;xilinx_vek280_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_202410_1/xilinx_vek280_base_202410_1.xpfm;xilinx_vek280_base_bdc_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_bdc_202410_1/xilinx_vek280_base_bdc_202410_1.xpfm;xilinx_vmk180_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vmk180_base_202410_1/xilinx_vmk180_base_202410_1.xpfm;xilinx_zcu102_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+15:48:08 INFO  : Result from executing command 'getProjects': soc_led
+15:48:09 INFO  : Result from executing command 'getPlatforms': soc_led|E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/soc_led.xpfm;xilinx_vck190_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_202410_1/xilinx_vck190_base_202410_1.xpfm;xilinx_vck190_base_dfx_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_dfx_202410_1/xilinx_vck190_base_dfx_202410_1.xpfm;xilinx_vek280_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_202410_1/xilinx_vek280_base_202410_1.xpfm;xilinx_vek280_base_bdc_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_bdc_202410_1/xilinx_vek280_base_bdc_202410_1.xpfm;xilinx_vmk180_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vmk180_base_202410_1/xilinx_vmk180_base_202410_1.xpfm;xilinx_zcu102_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|E:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+15:50:50 INFO  : Checking for BSP changes to sync application flags for project 'hello'...
+15:52:14 INFO  : Checking for BSP changes to sync application flags for project 'hello'...
+15:54:31 INFO  : Checking for BSP changes to sync application flags for project 'hello'...
+15:56:15 INFO  : Generated template bif file for hello_system
+15:56:36 INFO  : Invoking Bootgen: bootgen -image hello_system.bif -arch zynq -o E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello_system/_ide/bootimage/BOOT.bin
+15:56:39 INFO  : Bootgen command execution is done.
+15:59:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:59:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}' command is executed.
+15:59:56 INFO  : Device configured successfully with "E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello/_ide/bitstream/top.bit"
+16:01:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:01:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}' command is executed.
+16:01:52 INFO  : Device configured successfully with "E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello/_ide/bitstream/top.bit"
+19:44:10 DEBUG : Logs will be stored at 'E:/ProgramData/Xilinx/7020_Test/fpga_soc/IDE.log'.
+19:44:11 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ProgramData\Xilinx\7020_Test\fpga_soc\temp_xsdb_launch_script.tcl
+19:44:12 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'\gnu\microblaze\nt\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'\gnuwin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+19:44:14 INFO  : XSCT server has started successfully.
+19:44:14 INFO  : plnx-install-location is set to ''
+19:44:14 INFO  : Successfully done setting XSCT server connection channel  
+19:44:14 INFO  : Successfully done setting workspace for the tool. 
+19:44:19 INFO  : Platform repository initialization has completed.
+19:44:20 INFO  : Registering command handlers for Vitis TCF services
+19:44:21 INFO  : Successfully done query RDI_DATADIR 

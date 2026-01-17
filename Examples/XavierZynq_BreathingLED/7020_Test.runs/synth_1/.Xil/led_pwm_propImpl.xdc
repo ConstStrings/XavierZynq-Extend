@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:E:/ProgramData/Xilinx/7020_Test/7020_Test.srcs/constrs_1/new/top_pin.xdc rfile:../../../7020_Test.srcs/constrs_1/new/top_pin.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J15 [get_ports led]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN H16 [get_ports clk]
+set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN T17 [get_ports rst_n]

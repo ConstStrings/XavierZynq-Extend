@@ -1,0 +1,22 @@
+Nothing to build in platform 'soc_led'
+
+15:54:31 **** Incremental Build of configuration Debug for project hello ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+15:54:34 **** Build of configuration Debug for project hello_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 21384 E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/soc_led.xpfm standalone_domain E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello_system/Debug/system.bif
+'\gnu\microblaze\lin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'\gnu\microblaze\nt\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+'\gnuwin\bin\' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+sdcard_gen --xpfm E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/soc_led.xpfm --sys_config soc_led --bif E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello_system/Debug/system.bif --bitstream E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello/_ide/bitstream/top.bit --elf E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello/Debug/hello.elf,ps7_cortexa9_0
+creating BOOT.BIN using E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello/_ide/bitstream/top.bit
+Running E:/Xilinx/Vitis/2024.1/bin/bootgen  -image E:/ProgramData/Xilinx/7020_Test/fpga_soc/hello_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

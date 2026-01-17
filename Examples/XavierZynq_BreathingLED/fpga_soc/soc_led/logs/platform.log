@@ -1,0 +1,2299 @@
+TRACE::2025-07-12.15:17:42::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:42::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:42::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:44::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:44::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:44::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-07-12.15:17:45::SCWPlatform::Opened new HwDB with name top_0
+TRACE::2025-07-12.15:17:45::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2025-07-12.15:17:45::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led"
+		}]
+}
+TRACE::2025-07-12.15:17:46::SCWPlatform::Boot application domains not present, creating them
+TRACE::2025-07-12.15:17:46::SCWDomain::checking for install qemu data   : 
+TRACE::2025-07-12.15:17:46::SCWDomain:: Using the QEMU Data from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2025-07-12.15:17:46::SCWDomain:: Using the QEMU args  from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:46::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2025-07-12.15:17:46::SCWPlatform::Generating the sources  .
+TRACE::2025-07-12.15:17:46::SCWBDomain::Generating boot domain sources.
+TRACE::2025-07-12.15:17:46::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:46::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-07-12.15:17:46::SCWMssOS::No sw design opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::mss does not exists at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::Creating sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::Adding the swdes entry, created swdb E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::updating the scw layer changes to swdes at   E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::Writing mss at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:46::SCWMssOS::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2025-07-12.15:17:46::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2025-07-12.15:17:46::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2025-07-12.15:17:46::SCWBDomain::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2025-07-12.15:17:53::SCWPlatform::Generating sources Done.
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-07-12.15:17:53::SCWMssOS::No sw design opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::mss exists loading the mss file  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Opened the sw design from mss  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Adding the swdes entry E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2025-07-12.15:17:53::SCWMssOS::updating the scw layer about changes
+TRACE::2025-07-12.15:17:53::SCWMssOS::Opened the sw design.  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:53::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:53::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:53::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:53::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWDomain::checking for install qemu data   : 
+TRACE::2025-07-12.15:17:53::SCWDomain:: Using the QEMU Data from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2025-07-12.15:17:53::SCWDomain:: Using the QEMU args  from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:53::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:53::SCWMssOS::No sw design opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::mss does not exists at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Creating sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Adding the swdes entry, created swdb E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::updating the scw layer changes to swdes at   E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Writing mss at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:53::SCWMssOS::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2025-07-12.15:17:53::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2025-07-12.15:17:53::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2025-07-12.15:17:53::SCWMssOS::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2025-07-12.15:17:53::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Adding the swdes entry, mss present, able to open swdb E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2025-07-12.15:17:54::SCWMssOS::Writing the mss file completed E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2025-07-12.15:17:54::SCWPlatform::Started generating the artifacts platform soc_led
+TRACE::2025-07-12.15:17:54::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-07-12.15:17:54::SCWPlatform::Started generating the artifacts for system configuration soc_led
+LOG::2025-07-12.15:17:54::SCWSystem::Checking the domain zynq_fsbl
+LOG::2025-07-12.15:17:54::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2025-07-12.15:17:54::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2025-07-12.15:17:54::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2025-07-12.15:17:54::SCWSystem::Checking the domain standalone_domain
+LOG::2025-07-12.15:17:54::SCWSystem::Not a boot domain 
+LOG::2025-07-12.15:17:54::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-07-12.15:17:54::SCWDomain::Generating domain artifcats
+TRACE::2025-07-12.15:17:54::SCWMssOS::Generating standalone artifcats
+TRACE::2025-07-12.15:17:54::SCWMssOS::Copying the qemu file from  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/resources/soc_led/standalone_domain/qemu_args.txt To E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/sw/soc_led/qemu/
+TRACE::2025-07-12.15:17:54::SCWMssOS::Copying the qemu file from  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/resources/soc_led/standalone_domain/qemu_args.txt To E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/sw/soc_led/standalone_domain/qemu/
+TRACE::2025-07-12.15:17:54::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2025-07-12.15:17:54::SCWMssOS::Mss edits present, copying mssfile into export location E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-07-12.15:17:54::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-07-12.15:17:54::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2025-07-12.15:17:54::SCWMssOS::skipping the bsp build ... 
+TRACE::2025-07-12.15:17:54::SCWMssOS::Copying to export directory.
+TRACE::2025-07-12.15:17:54::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-07-12.15:17:54::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2025-07-12.15:17:54::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2025-07-12.15:17:54::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-07-12.15:17:54::SCWSystem::Completed Processing the sysconfig soc_led
+LOG::2025-07-12.15:17:54::SCWPlatform::Completed generating the artifacts for system configuration soc_led
+TRACE::2025-07-12.15:17:54::SCWPlatform::Started preparing the platform 
+TRACE::2025-07-12.15:17:54::SCWSystem::Writing the bif file for system config soc_led
+TRACE::2025-07-12.15:17:54::SCWSystem::dir created 
+TRACE::2025-07-12.15:17:54::SCWSystem::Writing the bif 
+TRACE::2025-07-12.15:17:54::SCWPlatform::Started writing the spfm file 
+TRACE::2025-07-12.15:17:54::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-07-12.15:17:54::SCWPlatform::Completed generating the platform
+TRACE::2025-07-12.15:17:54::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:54::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:54::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:54::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:54::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:54::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-07-12.15:17:54::SCWPlatform::updated the xpfm file.
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:55::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2025-07-12.15:17:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:55::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:55::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:55::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-07-12.15:17:56::SCWPlatform::Clearing the existing platform
+TRACE::2025-07-12.15:17:56::SCWSystem::Clearing the existing sysconfig
+TRACE::2025-07-12.15:17:56::SCWBDomain::clearing the fsbl build
+TRACE::2025-07-12.15:17:56::SCWMssOS::Removing the swdes entry for  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:56::SCWMssOS::Removing the swdes entry for  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:56::SCWSystem::Clearing the domains completed.
+TRACE::2025-07-12.15:17:56::SCWPlatform::Clearing the opened hw db.
+TRACE::2025-07-12.15:17:56::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform:: Platform location is E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:56::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:56::SCWPlatform::Removing the HwDB with name E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:56::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:56::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:56::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened new HwDB with name top_1
+TRACE::2025-07-12.15:17:58::SCWReader::Active system found as  soc_led
+TRACE::2025-07-12.15:17:58::SCWReader::Handling sysconfig soc_led
+TRACE::2025-07-12.15:17:58::SCWDomain::checking for install qemu data   : 
+TRACE::2025-07-12.15:17:58::SCWDomain:: Using the QEMU Data from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2025-07-12.15:17:58::SCWDomain:: Using the QEMU args  from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-07-12.15:17:58::SCWMssOS::No sw design opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::mss exists loading the mss file  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Opened the sw design from mss  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Adding the swdes entry E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2025-07-12.15:17:58::SCWMssOS::updating the scw layer about changes
+TRACE::2025-07-12.15:17:58::SCWMssOS::Opened the sw design.  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:58::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS:: library already available in sw design:  xilffs:5.2
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:58::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS:: library already available in sw design:  xilrsa:1.8
+TRACE::2025-07-12.15:17:58::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:58::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:58::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:58::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-07-12.15:17:58::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:58::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWReader::No isolation master present  
+TRACE::2025-07-12.15:17:58::SCWDomain::checking for install qemu data   : 
+TRACE::2025-07-12.15:17:58::SCWDomain:: Using the QEMU Data from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2025-07-12.15:17:58::SCWDomain:: Using the QEMU args  from install at  : E:/Xilinx/Vitis/2024.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:58::SCWMssOS::No sw design opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::mss exists loading the mss file  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Opened the sw design from mss  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Adding the swdes entry E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2025-07-12.15:17:58::SCWMssOS::updating the scw layer about changes
+TRACE::2025-07-12.15:17:58::SCWMssOS::Opened the sw design.  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:17:58::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:17:58::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:17:58::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-07-12.15:17:58::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:17:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:17:58::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:17:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:17:58::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:17:58::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:17:58::SCWReader::No isolation master present  
+LOG::2025-07-12.15:18:05::SCWPlatform::Started generating the artifacts platform soc_led
+TRACE::2025-07-12.15:18:05::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-07-12.15:18:05::SCWPlatform::Started generating the artifacts for system configuration soc_led
+LOG::2025-07-12.15:18:05::SCWSystem::Checking the domain zynq_fsbl
+LOG::2025-07-12.15:18:05::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2025-07-12.15:18:05::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2025-07-12.15:18:05::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2025-07-12.15:18:05::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:18:05::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:18:05::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:18:05::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:18:05::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:18:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:18:05::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:18:05::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:18:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:18:05::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:18:05::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:18:05::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:18:05::SCWBDomain::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2025-07-12.15:18:05::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-07-12.15:18:05::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2025-07-12.15:18:05::SCWBDomain::System Command Ran  E:&  cd  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl& make -C  zynq_fsbl_bsp & make 
+TRACE::2025-07-12.15:18:06::SCWBDomain::make: Entering directory 'E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2025-07-12.15:18:06::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2025-07-12.15:18:06::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src"
+
+TRACE::2025-07-12.15:18:06::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2025-07-12.15:18:06::SCWBDomain::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2025-07-12.15:18:06::SCWBDomain::hard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:07::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src"
+
+TRACE::2025-07-12.15:18:07::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2025-07-12.15:18:07::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2025-07-12.15:18:07::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:08::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2025-07-12.15:18:08::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:18:08::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:18:08::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:08::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_8/src"
+
+TRACE::2025-07-12.15:18:08::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:08::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:08::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:09::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_10/src"
+
+TRACE::2025-07-12.15:18:09::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:09::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:09::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:10::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_20/src"
+
+TRACE::2025-07-12.15:18:10::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_20/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:10::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:10::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:11::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_12/src"
+
+TRACE::2025-07-12.15:18:11::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:11::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:11::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:12::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_3/src"
+
+TRACE::2025-07-12.15:18:12::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:12::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:12::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:12::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_6/src"
+
+TRACE::2025-07-12.15:18:12::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2025-07-12.15:18:12::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2025-07-12.15:18:12::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:13::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_5/src"
+
+TRACE::2025-07-12.15:18:13::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:13::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:13::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:14::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v4_3/src"
+
+TRACE::2025-07-12.15:18:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:18:14::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:18:14::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:14::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v9_1/src"
+
+TRACE::2025-07-12.15:18:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v9_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2025-07-12.15:18:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2025-07-12.15:18:14::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:21::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_14/src"
+
+TRACE::2025-07-12.15:18:21::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_14/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:21::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:21::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:21::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_9/src"
+
+TRACE::2025-07-12.15:18:21::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:18:21::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:18:21::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:22::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_7/src"
+
+TRACE::2025-07-12.15:18:22::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:22::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:22::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v5_2/src"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:23::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:23::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_8/src"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:23::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:23::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_8/src"
+
+TRACE::2025-07-12.15:18:23::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:18:23::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:18:23::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::'Finished building libraries sequentially.'
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::make -j 18 --no-print-directory par_libs
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src"
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2025-07-12.15:18:24::SCWBDomain::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2025-07-12.15:18:24::SCWBDomain::hard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src"
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2025-07-12.15:18:24::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2025-07-12.15:18:24::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2025-07-12.15:18:24::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:18:25::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:18:25::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_8/src"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:25::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:25::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_10/src"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_20/src"
+
+TRACE::2025-07-12.15:18:25::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:25::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:25::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_20/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:26::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:26::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_3/src"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_12/src"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_6/src"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:26::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:26::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_5/src"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v4_3/src"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:26::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:26::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:26::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2025-07-12.15:18:26::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2025-07-12.15:18:26::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:27::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:27::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:18:27::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:18:27::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v9_1/src"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_14/src"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v9_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2025-07-12.15:18:27::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2025-07-12.15:18:27::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_9/src"
+
+TRACE::2025-07-12.15:18:27::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_7/src"
+
+TRACE::2025-07-12.15:18:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_14/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:18:28::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:18:28::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:18:28::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:18:28::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:28::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:28::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:28::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:29::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v5_2/src"
+
+TRACE::2025-07-12.15:18:29::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:29::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:29::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:29::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_8/src"
+
+TRACE::2025-07-12.15:18:29::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:18:29::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:18:29::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2025-07-12.15:18:30::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2025-07-12.15:18:30::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_8/src"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2025-07-12.15:18:30::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2025-07-12.15:18:30::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:30::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2025-07-12.15:18:30::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2025-07-12.15:18:30::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:18:31::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:18:31::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_10/src"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_20/src"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_12/src"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:18:31::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:18:31::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_6/src"
+
+TRACE::2025-07-12.15:18:31::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_3/src"
+
+TRACE::2025-07-12.15:18:32::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_20/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:18:32::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:18:32::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:18:33::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_12/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:18:33::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:18:33::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:19:13::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:19:13::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:19:13::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:19:53::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:19:53::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:19:53::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:20:34::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_5/src"
+
+TRACE::2025-07-12.15:20:34::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:20:34::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:20:34::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:20:34::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v4_3/src"
+
+TRACE::2025-07-12.15:21:15::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2025-07-12.15:21:15::SCWBDomain::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2025-07-12.15:21:15::SCWBDomain::les -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:21:57::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v9_1/src"
+
+TRACE::2025-07-12.15:21:57::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v9_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:21:57::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:21:57::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:23:18::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_14/src"
+
+TRACE::2025-07-12.15:23:18::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_14/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:23:18::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:23:18::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:23:59::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_9/src"
+
+TRACE::2025-07-12.15:23:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2025-07-12.15:23:59::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2025-07-12.15:23:59::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:23:59::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_7/src"
+
+TRACE::2025-07-12.15:24:40::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:24:40::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:24:40::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:25:21::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v5_2/src"
+
+TRACE::2025-07-12.15:25:21::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:25:21::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:25:21::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:00::SCWBDomain::'Finished building libraries parallelly.'
+
+TRACE::2025-07-12.15:35:00::SCWBDomain::make --no-print-directory archive
+
+TRACE::2025-07-12.15:35:01::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2025-07-12.15:35:01::SCWBDomain::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2025-07-12.15:35:01::SCWBDomain::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2025-07-12.15:35:01::SCWBDomain::fstat.o ps7_cortexa9_0/lib/getentropy.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7
+TRACE::2025-07-12.15:35:01::SCWBDomain::_cortexa9_0/lib/kill.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/pri
+TRACE::2025-07-12.15:35:01::SCWBDomain::nt.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/
+TRACE::2025-07-12.15:35:01::SCWBDomain::lib/time.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/ve
+TRACE::2025-07-12.15:35:01::SCWBDomain::ctors.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o p
+TRACE::2025-07-12.15:35:01::SCWBDomain::s7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/x
+TRACE::2025-07-12.15:35:01::SCWBDomain::devcfg.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xd
+TRACE::2025-07-12.15:35:01::SCWBDomain::evcfg_selftest.o ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/li
+TRACE::2025-07-12.15:35:01::SCWBDomain::b/xdmaps_hw.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xemacps.o ps7_cortexa9_
+TRACE::2025-07-12.15:35:01::SCWBDomain::0/lib/xemacps_bdring.o ps7_cortexa9_0/lib/xemacps_control.o ps7_cortexa9_0/lib/xemacps_g.o ps7_cortexa9_0/lib/xemacps_hw.o ps7_
+TRACE::2025-07-12.15:35:01::SCWBDomain::cortexa9_0/lib/xemacps_intr.o ps7_cortexa9_0/lib/xemacps_sinit.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o 
+TRACE::2025-07-12.15:35:01::SCWBDomain::ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.
+TRACE::2025-07-12.15:35:01::SCWBDomain::o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil
+TRACE::2025-07-12.15:35:01::SCWBDomain::_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xil_spinlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cor
+TRACE::2025-07-12.15:35:01::SCWBDomain::texa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps
+TRACE::2025-07-12.15:35:01::SCWBDomain::7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xpm_in
+TRACE::2025-07-12.15:35:01::SCWBDomain::it.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xqspips_hw.o ps7_cortexa9_0/lib/xqspips_opt
+TRACE::2025-07-12.15:35:01::SCWBDomain::ions.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib
+TRACE::2025-07-12.15:35:01::SCWBDomain::/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortex
+TRACE::2025-07-12.15:35:01::SCWBDomain::a9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xscutimer_selftest.
+TRACE::2025-07-12.15:35:01::SCWBDomain::o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xscuwdt_s
+TRACE::2025-07-12.15:35:01::SCWBDomain::elftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa9_0/lib/xsdp
+TRACE::2025-07-12.15:35:01::SCWBDomain::s_g.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/xt
+TRACE::2025-07-12.15:35:01::SCWBDomain::ime_l.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xuartps_
+TRACE::2025-07-12.15:35:01::SCWBDomain::intr.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortex
+TRACE::2025-07-12.15:35:01::SCWBDomain::a9_0/lib/xusbps.o ps7_cortexa9_0/lib/xusbps_endpoint.o ps7_cortexa9_0/lib/xusbps_g.o ps7_cortexa9_0/lib/xusbps_hw.o ps7_cortexa
+TRACE::2025-07-12.15:35:01::SCWBDomain::9_0/lib/xusbps_intr.o ps7_cortexa9_0/lib/xusbps_sinit.o
+
+TRACE::2025-07-12.15:35:01::SCWBDomain::'Finished building libraries'
+
+TRACE::2025-07-12.15:35:01::SCWBDomain::make: Leaving directory 'E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2025-07-12.15:35:01::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2025-07-12.15:35:01::SCWBDomain::exa9_0/include -I.
+
+TRACE::2025-07-12.15:35:03::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2025-07-12.15:35:03::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:04::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2025-07-12.15:35:04::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:05::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c image_mover.c -o image_mover.o -Izynq
+TRACE::2025-07-12.15:35:05::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:06::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2025-07-12.15:35:06::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:08::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2025-07-12.15:35:08::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:09::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2025-07-12.15:35:09::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:10::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2025-07-12.15:35:10::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:11::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2025-07-12.15:35:11::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:13::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2025-07-12.15:35:13::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:14::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2025-07-12.15:35:14::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:15::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2025-07-12.15:35:15::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2025-07-12.15:35:16::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf fsbl_handoff.o fsbl_hooks.o image_mover.o main.o md5.o nand.o nor.o pcap.o ps7_init.o qspi.o rsa.
+TRACE::2025-07-12.15:35:16::SCWBDomain::o sd.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id
+TRACE::2025-07-12.15:35:16::SCWBDomain::=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-
+TRACE::2025-07-12.15:35:16::SCWBDomain::group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                   -Wl,--gc-sections -Lzynq_fsbl_bsp/p
+TRACE::2025-07-12.15:35:16::SCWBDomain::s7_cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2025-07-12.15:35:18::SCWSystem::Checking the domain standalone_domain
+LOG::2025-07-12.15:35:18::SCWSystem::Not a boot domain 
+LOG::2025-07-12.15:35:18::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-07-12.15:35:18::SCWDomain::Generating domain artifcats
+TRACE::2025-07-12.15:35:18::SCWMssOS::Generating standalone artifcats
+TRACE::2025-07-12.15:35:18::SCWMssOS::Copying the qemu file from  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/resources/soc_led/standalone_domain/qemu_args.txt To E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/sw/soc_led/qemu/
+TRACE::2025-07-12.15:35:18::SCWMssOS::Copying the qemu file from  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/resources/soc_led/standalone_domain/qemu_args.txt To E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/export/soc_led/sw/soc_led/standalone_domain/qemu/
+TRACE::2025-07-12.15:35:18::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-07-12.15:35:18::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:35:18::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:35:18::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:35:18::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:35:18::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:35:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:35:18::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:35:18::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:35:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:35:18::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:35:18::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:35:18::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:35:18::SCWMssOS::Completed writing the mss file at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2025-07-12.15:35:18::SCWMssOS::Mss edits present, copying mssfile into export location E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:35:18::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-07-12.15:35:18::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-07-12.15:35:18::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2025-07-12.15:35:18::SCWMssOS::doing bsp build ... 
+TRACE::2025-07-12.15:35:18::SCWMssOS::System Command Ran  E: & cd  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2025-07-12.15:35:19::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::make -j 18 --no-print-directory par_libs
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2025-07-12.15:35:19::SCWMssOS::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2025-07-12.15:35:19::SCWMssOS::hard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2025-07-12.15:35:19::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2025-07-12.15:35:19::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:35:19::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:35:19::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_8/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_10/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:35:19::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:35:19::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_20/src"
+
+TRACE::2025-07-12.15:35:19::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_12/src"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:35:20::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:35:20::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_20/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:35:20::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:35:20::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_12/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:35:20::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:35:20::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_3/src"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_6/src"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:35:20::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:35:20::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_5/src"
+
+TRACE::2025-07-12.15:35:20::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v4_3/src"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2025-07-12.15:35:21::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2025-07-12.15:35:21::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:35:21::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:35:21::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:35:21::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:35:21::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v9_1/src"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_14/src"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v9_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2025-07-12.15:35:21::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2025-07-12.15:35:21::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_9/src"
+
+TRACE::2025-07-12.15:35:21::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_7/src"
+
+TRACE::2025-07-12.15:35:22::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_14/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:35:22::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:35:22::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:22::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:35:22::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:35:22::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:22::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2025-07-12.15:35:22::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2025-07-12.15:35:22::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_12/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2025-07-12.15:35:29::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2025-07-12.15:35:29::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_8/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_10/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2025-07-12.15:35:29::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2025-07-12.15:35:29::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2025-07-12.15:35:29::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2025-07-12.15:35:29::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:35:29::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:35:29::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:35:29::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:35:29::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_20/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_12/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_20/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:35:29::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:35:29::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_3/src"
+
+TRACE::2025-07-12.15:35:29::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_6/src"
+
+TRACE::2025-07-12.15:35:30::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_12/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:35:30::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:35:30::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:35:31::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:35:31::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:35:31::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:36:11::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2025-07-12.15:36:11::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2025-07-12.15:36:11::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:36:52::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_5/src"
+
+TRACE::2025-07-12.15:36:52::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:36:52::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:36:52::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:37:33::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v4_3/src"
+
+TRACE::2025-07-12.15:37:33::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2025-07-12.15:37:33::SCWMssOS::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2025-07-12.15:37:33::SCWMssOS::les -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:38:52::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v9_1/src"
+
+TRACE::2025-07-12.15:38:52::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v9_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2025-07-12.15:38:52::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2025-07-12.15:38:52::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:39:34::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_14/src"
+
+TRACE::2025-07-12.15:39:34::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_14/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2025-07-12.15:39:34::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2025-07-12.15:39:34::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:40:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_9/src"
+
+TRACE::2025-07-12.15:40:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2025-07-12.15:40:56::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2025-07-12.15:40:56::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:41:36::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_7/src"
+
+TRACE::2025-07-12.15:41:36::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2025-07-12.15:41:36::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2025-07-12.15:41:36::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-07-12.15:48:07::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2025-07-12.15:48:07::SCWMssOS::make --no-print-directory archive
+
+TRACE::2025-07-12.15:48:07::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2025-07-12.15:48:07::SCWMssOS::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2025-07-12.15:48:07::SCWMssOS::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2025-07-12.15:48:07::SCWMssOS::fstat.o ps7_cortexa9_0/lib/getentropy.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7
+TRACE::2025-07-12.15:48:07::SCWMssOS::_cortexa9_0/lib/kill.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/pri
+TRACE::2025-07-12.15:48:07::SCWMssOS::nt.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/
+TRACE::2025-07-12.15:48:07::SCWMssOS::lib/time.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/ve
+TRACE::2025-07-12.15:48:07::SCWMssOS::ctors.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o p
+TRACE::2025-07-12.15:48:07::SCWMssOS::s7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/x
+TRACE::2025-07-12.15:48:07::SCWMssOS::devcfg.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xd
+TRACE::2025-07-12.15:48:07::SCWMssOS::evcfg_selftest.o ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/li
+TRACE::2025-07-12.15:48:07::SCWMssOS::b/xdmaps_hw.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xemacps.o ps7_cortexa9_
+TRACE::2025-07-12.15:48:07::SCWMssOS::0/lib/xemacps_bdring.o ps7_cortexa9_0/lib/xemacps_control.o ps7_cortexa9_0/lib/xemacps_g.o ps7_cortexa9_0/lib/xemacps_hw.o ps7_
+TRACE::2025-07-12.15:48:07::SCWMssOS::cortexa9_0/lib/xemacps_intr.o ps7_cortexa9_0/lib/xemacps_sinit.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o 
+TRACE::2025-07-12.15:48:07::SCWMssOS::ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.
+TRACE::2025-07-12.15:48:07::SCWMssOS::o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil
+TRACE::2025-07-12.15:48:07::SCWMssOS::_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xil_spinlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cor
+TRACE::2025-07-12.15:48:07::SCWMssOS::texa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps
+TRACE::2025-07-12.15:48:07::SCWMssOS::7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xpm_in
+TRACE::2025-07-12.15:48:07::SCWMssOS::it.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xqspips_hw.o ps7_cortexa9_0/lib/xqspips_opt
+TRACE::2025-07-12.15:48:07::SCWMssOS::ions.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib
+TRACE::2025-07-12.15:48:07::SCWMssOS::/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortex
+TRACE::2025-07-12.15:48:07::SCWMssOS::a9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xscutimer_selftest.
+TRACE::2025-07-12.15:48:07::SCWMssOS::o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xscuwdt_s
+TRACE::2025-07-12.15:48:07::SCWMssOS::elftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa9_0/lib/xsdp
+TRACE::2025-07-12.15:48:07::SCWMssOS::s_g.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/xt
+TRACE::2025-07-12.15:48:07::SCWMssOS::ime_l.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xuartps_
+TRACE::2025-07-12.15:48:07::SCWMssOS::intr.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortex
+TRACE::2025-07-12.15:48:07::SCWMssOS::a9_0/lib/xusbps.o ps7_cortexa9_0/lib/xusbps_endpoint.o ps7_cortexa9_0/lib/xusbps_g.o ps7_cortexa9_0/lib/xusbps_hw.o ps7_cortexa
+TRACE::2025-07-12.15:48:07::SCWMssOS::9_0/lib/xusbps_intr.o ps7_cortexa9_0/lib/xusbps_sinit.o
+
+TRACE::2025-07-12.15:48:07::SCWMssOS::'Finished building libraries'
+
+TRACE::2025-07-12.15:48:08::SCWMssOS::Copying to export directory.
+TRACE::2025-07-12.15:48:08::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-07-12.15:48:08::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-07-12.15:48:08::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-07-12.15:48:08::SCWSystem::Completed Processing the sysconfig soc_led
+LOG::2025-07-12.15:48:08::SCWPlatform::Completed generating the artifacts for system configuration soc_led
+TRACE::2025-07-12.15:48:08::SCWPlatform::Started preparing the platform 
+TRACE::2025-07-12.15:48:08::SCWSystem::Writing the bif file for system config soc_led
+TRACE::2025-07-12.15:48:08::SCWSystem::dir created 
+TRACE::2025-07-12.15:48:08::SCWSystem::Writing the bif 
+TRACE::2025-07-12.15:48:08::SCWPlatform::Started writing the spfm file 
+TRACE::2025-07-12.15:48:08::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-07-12.15:48:08::SCWPlatform::Completed generating the platform
+TRACE::2025-07-12.15:48:08::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:48:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:48:08::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:48:08::SCWMssOS::Saving the mss changes E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-07-12.15:48:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-07-12.15:48:08::SCWMssOS::Commit changes completed.
+TRACE::2025-07-12.15:48:08::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:48:08::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:48:08::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:48:08::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:48:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:48:08::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:48:08::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:48:08::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:08::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:48:08::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:48:08::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:48:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:48:08::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:48:08::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:48:08::SCWWriter::formatted JSON is {
+	"platformName":	"soc_led",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"soc_led",
+	"platHandOff":	"E:/ProgramData/Xilinx/7020_Test/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"soc_led",
+	"systems":	[{
+			"systemName":	"soc_led",
+			"systemDesc":	"soc_led",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"soc_led",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"83845aad09ab7e49651d6863a776bab0",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.2", "xilrsa:1.8"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/soc_led/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/soc_led/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"9.1",
+					"mssFile":	"",
+					"md5Digest":	"829e7a132811ead0f9c64dba18c671eb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-07-12.15:48:08::SCWPlatform::updated the xpfm file.
+TRACE::2025-07-12.15:48:11::SCWPlatform::Trying to open the hw design at E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:11::SCWPlatform::DSA given E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:11::SCWPlatform::DSA absoulate path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:11::SCWPlatform::DSA directory E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw
+TRACE::2025-07-12.15:48:11::SCWPlatform:: Platform Path E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/hw/top.xsa
+TRACE::2025-07-12.15:48:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-07-12.15:48:11::SCWPlatform::Trying to set the existing hwdb with name top_1
+TRACE::2025-07-12.15:48:11::SCWPlatform::Opened existing hwdb top_1
+TRACE::2025-07-12.15:48:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-07-12.15:48:11::SCWMssOS::Checking the sw design at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2025-07-12.15:48:11::SCWMssOS::DEBUG:  swdes dump  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2025-07-12.15:48:11::SCWMssOS::Sw design exists and opened at  E:/ProgramData/Xilinx/7020_Test/fpga_soc/soc_led/ps7_cortexa9_0/standalone_domain/bsp/system.mss
